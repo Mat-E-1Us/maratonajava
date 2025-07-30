@@ -1,0 +1,8 @@
+Nome: Mateus
+Idade: 18
+Endereço: Montinho da Nuvem
+090.765.432-10
+RG: 01-023.032
+Salario: 3000.0
+Empresa que atua: LIMB_LIFE
+----------------------------------------------

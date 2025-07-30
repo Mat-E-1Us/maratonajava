@@ -1,0 +1,12 @@
+Nome: Basil
+Idade: 17
+Altura: 1.79
+Peso: 60.0
+Nacionaliade: japonês (Japão)
+Dano: 9.8
+Bônus de Dano: 0.9800000000000001
+Bônus de Sorte: 0.098
+Habilidade única: Olê
+Mundo a que pertence: Real
+Dinheiro: ￥26
+--------------------------------------

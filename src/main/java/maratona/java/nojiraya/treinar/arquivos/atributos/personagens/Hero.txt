@@ -1,0 +1,12 @@
+Nome: Hero
+Idade: 19
+Altura: 1.85
+Peso: 70.0
+Nacionaliade: japonês (Japão)
+Dano: 14.2
+Bônus de Dano: 7.1
+Bônus de Sorte: 0.71
+Habilidade única: Joelhada
+Mundo a que pertence: Real
+Dinheiro: ￥92
+--------------------------------------

@@ -1,0 +1,12 @@
+Nome: Aubreay
+Idade: 17
+Altura: 1.78
+Peso: 58.0
+Nacionaliade: japonês (Japão)
+Dano: 9.2
+Bônus de Dano: 0.644
+Bônus de Sorte: 4.6
+Habilidade única: Chute
+Mundo a que pertence: Real
+Dinheiro: ￥21
+--------------------------------------
