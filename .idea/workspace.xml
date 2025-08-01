@@ -5,629 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1048011a-fc61-4686-9625-5ba00fca517c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/abstrata/dominio/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/abstrata/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/abstrata/test/FuncionarioTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/classesinternas/test/AnonymousClassTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/classesinternas/test/AnonymousClassTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/classesinternas/test/OuterClassTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/classesinternas/test/OuterClassTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/classesinternas/test/OuterClassTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/CalendarTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/ChronoUnitTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/DateTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/DurationTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/InstantTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/LocalDateTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/LocalDateTimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/LocalTimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/PeriodTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/TemportalAdjustersTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/TemportalAdjustersTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/datas/test/ZonaDataTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/formatacao/test/DateFormatTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/formatacao/test/LocaleTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/formatacao/test/LocaleTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/formatacao/test/NumberFormatTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/formatacao/test/NumberFormatTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/formatacao/test/SimpleDateFormatTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introducao/Aula16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/io/test/BufferWriteTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/io/test/BufferedReaderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/io/test/FileReaderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/io/test/FileTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/io/test/FileTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/io/test/FileWriteTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/minostring/test/StringBuilderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/minostring/test/StringTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/minostring/test/StringTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/minostring/test/StringTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/BasicFilesAttributesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/BasicFilesAttributesTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/DirectoryStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/DosFilesAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/FileMatcherTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/NormalizeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/PathTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/PathTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/PosixFileAttributesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/RelativandoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/ResolveTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/SimpleFileVisitorTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/SimpleFileVisitorTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/VisitorMatcherTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/nio/test/ZipOututStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/ScannerTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/regex/ScannerTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/domain/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/domain/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/domain/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/servico/CriarArquivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/servico/PrintNosDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/test/FuncionarioTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/resourcebundle/ResourcesBundleTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/domain/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/services/EmailDeliveryServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/test/DeadLockTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/test/ThreadAccountTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/arqFuncionario/Fabio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/arqFuncionario/Mateus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/Teste.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/Anotações.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Aubreay.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Basil.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Hero.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Kel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Mari.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Mat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Sunny.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/services/StoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/CompletableFutureTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/CompletableFutureTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratonajava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/abstrata/dominio/Desenvolvedor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/abstrata/dominio/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/abstrata/dominio/Gerente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/abstrata/dominio/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/abstrata/test/FuncionarioTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/classesinternas/test/AnonymousClassTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/classesinternas/test/AnonymousClassTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/classesinternas/test/OuterClassTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/classesinternas/test/OuterClassTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/classesinternas/test/OuterClassTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/domain/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/domain/Consumidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/domain/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/domain/Manga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/domain/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/domain/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/EqualsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/EqualsTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/IteratorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/IteratorTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/ListSortingTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/ListSortingTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/ListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/ListTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/ListaArrayConversaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/ListaArrayConversaoTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/ManasortingTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/ManasortingTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/MapTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/MapTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/MapTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/MapTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/MapTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/MapTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/NavigableMapTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/NavigableMapTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/NevigableSetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/NevigableSetTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/QueueTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/QueueTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/QueueTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/QueueTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/SetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/SetTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/coleções/test/SmartphoneListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/coleções/test/SmartphoneListTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/comportamento/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/comportamento/domain/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/comportamento/interfaces/CarPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/comportamento/interfaces/CarPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/domain/Members.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/domain/Members.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/services/EmailDeliveryServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/services/EmailDeliveryServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/AtomicIntegerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/AtomicIntegerTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/BlockingQueueTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/BlockingQueueTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/CallableTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/CallableTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/CopyOnWriteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/CopyOnWriteTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/EmailDeliveryTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/EmailDeliveryTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/ExecutorsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/ExecutorsTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/LinkedTransferQueueTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/LinkedTransferQueueTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantLockTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantLockTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantReadWriteLockTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantReadWriteLockTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/concorrencia/test/ScheduledThreadPoolTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/ScheduledThreadPoolTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/construtores/Test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/construtores/Test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/construtores/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/construtores/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/CalendarTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/ChronoUnitTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/DateTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/DurationTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/InstantTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/LocalDateTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/LocalDateTimeTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/LocalTimeTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/PeriodTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/TemportalAdjustersTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/TemportalAdjustersTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/datas/test/ZonaDataTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/enumerecao/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/enumerecao/dominio/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/enumerecao/test/ClienteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/enumerecao/test/ClienteTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/error/test/StackOverFlowTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/error/test/StackOverFlowTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/LoginInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/LoginInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/test/ExeceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/test/ExeceptionTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/test/LoginInvalidoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/test/LoginInvalidoTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/test/SobrescritaExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/test/SobrescritaExceptionTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/execption/test/TryWithResourcesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/execption/test/TryWithResourcesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/formatacao/test/DateFormatTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/formatacao/test/LocaleTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/formatacao/test/LocaleTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/formatacao/test/NumberFormatTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/formatacao/test/NumberFormatTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/formatacao/test/SimpleDateFormatTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Escola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Escola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Local.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Prof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Prof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Seminario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Seminario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/dominio/Time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/AlunoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/AlunoTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/EscolaTes01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/EscolaTes01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/domain/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/domain/Barco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/domain/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/domain/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/servico/BarcoRentavelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/servico/BarcoRentavelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/servico/CarroRentavelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/servico/CarroRentavelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/servico/RentavelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/servico/RentavelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/GenericsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/GenericsTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/MetodoGenericsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/MetodoGenericsTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/WildcardTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/WildcardTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/generics/test/WildcardTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/generics/test/WildcardTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/heranca/dominio/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/heranca/dominio/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/heranca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/heranca/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/heranca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/heranca/dominio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/heranca/test/HerancaTesto03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/heranca/test/HerancaTesto03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/inicializadores/dominio/AnimeDENOVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/inicializadores/dominio/AnimeDENOVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/inicializadores/test/AnimeDENOVOtest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/inicializadores/test/AnimeDENOVOtest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/interfaces/dominio/DateBaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/interfaces/dominio/DateBaseLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/interfaces/dominio/DateLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/interfaces/dominio/DateLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/interfaces/dominio/DateResover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/interfaces/dominio/DateResover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/interfaces/dominio/FileLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/interfaces/dominio/FileLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/interfaces/test/DateLoaderTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/interfaces/test/DateLoaderTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/dominio/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/dominio/Terco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/dominio/Terco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/test/CarroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/test/ProfessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/test/ProfessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/introclasses/test/TerçoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/introclasses/test/TerçoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/dominio/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/dominio/ImpressoraEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/dominio/ImpressoraEstudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/dominio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/dominio/Revisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/dominio/Revisao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/FuncionarioTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/PessoaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/PessoaTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/intrometodos/test/RevisaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/intrometodos/test/RevisaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/io/test/BufferWriteTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/io/test/BufferedReaderTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/io/test/FileReaderTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/io/test/FileTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/io/test/FileTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/io/test/FileWriteTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/service/AnimeComparators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/service/AnimeComparators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/lambdas/test/TreinarLógica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/lambdas/test/TreinarLógica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/minostring/test/StringBuilderTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/minostring/test/StringTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/minostring/test/StringTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/minostring/test/StringTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Comprador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Comprador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Ferrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorfinal/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorfinal/test/CarroTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/AnimeDENOVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/AnimeDENOVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorstatic/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorstatic/test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/modificadorstatic/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/modificadorstatic/test/CarroTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/BasicFilesAttributesTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/BasicFilesAttributesTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/DirectoryStreamTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/DosFilesAttributes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/FileMatcherTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/NormalizeTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/PathTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/PathTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/PosixFileAttributesTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/RelativandoTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/ResolveTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/SimpleFileVisitorTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/SimpleFileVisitorTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/VisitorMatcherTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/nio/test/ZipOututStreamTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/optinial/domain/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/optinial/domain/Manga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/optinial/repositorio/MangaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/optinial/repositorio/MangaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Computador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Taxavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Taxavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Televisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Televisao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Tomate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Tomate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/repositorio/Repositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/repositorio/Repositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/servico/CalculadoraImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeArquivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeMemoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeMemoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/polimorfismo/test/RepositorioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/polimorfismo/test/RepositorioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/PatternMatcherTest05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/ScannerTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/regex/ScannerTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/resourcebundle/ResourcesBundleTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/serializacao/domain/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/serializacao/domain/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/serializacao/domain/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/serializacao/domain/Turma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/serializacao/test/SerializaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/serializacao/test/SerializaTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/sobrecargametodos/Test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/sobrecargametodos/Test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/sobrecargametodos/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/sobrecargametodos/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/sobrescrita/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/sobrescrita/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/sobrescrita/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/sobrescrita/test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/domain/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/domain/LightNovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/domain/LightNovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/domain/Promotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/domain/Promotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StreamTest16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StreamTest16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StremTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StremTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StremTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StremTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/stream/test/StremTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/stream/test/StremTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/domain/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/domain/Members.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/services/EmailDeliveryServices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/test/DeadLockTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/test/EmailDeliveryTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/threads/test/EmailDeliveryTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/test/ThreadAccountTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/intermediario/wrappers/test/WrappersTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/wrappers/test/WrappersTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/introducao/Aula16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/introducao/Aula16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/arqFuncionario/Fabio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/arqFuncionario/Fabio.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/arqFuncionario/Mateus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/relembrando/arqFuncionario/Mateus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/domain/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/domain/Empresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/domain/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/domain/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/domain/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/domain/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/servico/CriarArquivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/servico/CriarArquivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/servico/PrintNosDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/servico/PrintNosDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/relembrando/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/relembrando/test/FuncionarioTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/Teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/abstrata/dominio/Desenvolvedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/Anotações.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/abstrata/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Aubreay.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Basil.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Hero.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Kel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Mari.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Mat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/arquivos/atributos/personagens/Sunny.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Aubreay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Aubreay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Basil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Basil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Bonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Branco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Branco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Habilidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Habilidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Kel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Kel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Mari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Mari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Mat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Mat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Mundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Mundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Personagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Real.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Real.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Sonho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Sonho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Sunny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/dominio/Sunny.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/interfaces/FilterPersonagens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/interfaces/FilterPersonagens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/servico/CalcDoBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/servico/CalcDoBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/test/PersonagemTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/treinar/test/PersonagemTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/domain/Consumidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/domain/Consumidor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/domain/Manga.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/domain/Manga.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/domain/Smartphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/domain/Smartphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/BinarySearchTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/EqualsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/EqualsTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/IteratorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/IteratorTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ListSortingTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ListSortingTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ListTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ListTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ListaArrayConversaoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ListaArrayConversaoTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ManasortingTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/ManasortingTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MangaPrecoComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MangaPrecoComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MapTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MapTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MapTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MapTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MapTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/MapTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/NavigableMapTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/NavigableMapTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/NevigableSetTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/NevigableSetTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/QueueTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/QueueTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/QueueTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/QueueTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/SetTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/SetTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/SmartphoneListTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/SmartphoneListTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/SortMangaPrecoComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/SortMangaPrecoComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/sorteandoPorNome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/coleções/test/sorteandoPorNome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/domain/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/domain/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/interfaces/CarPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/interfaces/CarPredicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/comportamento/test/ComportamentoPorParametroTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/domain/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/domain/Members.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/domain/Members.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/services/EmailDeliveryServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/services/EmailDeliveryServices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/AtomicIntegerTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/AtomicIntegerTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/BlockingQueueTest01$RemoveFromQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/BlockingQueueTest01$RemoveFromQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/BlockingQueueTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/BlockingQueueTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/CallableTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/CallableTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/CopyOnWriteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/CopyOnWriteTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/EmailDeliveryTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/EmailDeliveryTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ExecutorsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ExecutorsTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/FutureTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/LinkedTransferQueueTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/LinkedTransferQueueTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/MapReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/MapReadWrite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/RandomNumberCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/RandomNumberCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantLockTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantLockTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantReadWriteLockTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ReentrantReadWriteLockTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ScheduledThreadPoolTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/ScheduledThreadPoolTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/concorrencia/test/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoCliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/dominio/TipoPagamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/test/ClienteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/enumerecao/test/ClienteTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/error/test/StackOverFlowTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/error/test/StackOverFlowTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Leitor02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/LoginInvalidoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/LoginInvalidoException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/dominio/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/ExeceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/ExeceptionTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/LoginInvalidoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/LoginInvalidoTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/SobrescritaExceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/SobrescritaExceptionTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/TryWithResourcesTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/execption/test/TryWithResourcesTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeExceptionTest04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/exececoes/runtime/teste/RunTimeTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Escola.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Escola.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Jogador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Jogador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Local.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Local.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Prof.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Prof.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Seminario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Seminario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/dominio/Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/AlunoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/AlunoTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/EscolaTes01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/EscolaTes01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/JogadorTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/gassociacao/test/LeituraDoTecladoTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/domain/Barco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/domain/Barco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/domain/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/domain/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/BarcoRentavelService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/BarcoRentavelService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/CarroRentavelService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/CarroRentavelService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/RentavelService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/RentavelService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/SorteandoBarco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/SorteandoBarco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/SorteandoCarro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/servico/SorteandoCarro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/Cachorro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/ClasseGenericaTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/Gato.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/GenericsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/GenericsTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/MetodoGenericsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/MetodoGenericsTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/WildcardTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/WildcardTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/WildcardTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/generics/test/WildcardTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/dominio/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/dominio/Endereco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/dominio/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/dominio/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/test/HerancaTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/test/HerancaTesto03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/heranca/test/HerancaTesto03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/inicializadores/dominio/AnimeDENOVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/inicializadores/dominio/AnimeDENOVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/inicializadores/test/AnimeDENOVOtest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/inicializadores/test/AnimeDENOVOtest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/DateBaseLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/DateBaseLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/DateLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/DateLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/DateResover.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/DateResover.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/FileLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/dominio/FileLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/test/DateLoaderTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/interfaces/test/DateLoaderTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Estudante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Terco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/dominio/Terco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/CarroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/CarroTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/EstudanteTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/ProfessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/ProfessorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/TerçoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/introclasses/test/TerçoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Calculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Estudante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/ImpressoraEstudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/ImpressoraEstudante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Revisao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/dominio/Revisao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/CalculadoraTest04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/EstudanteTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/FuncionarioTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/FuncionarioTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/PessoaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/PessoaTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/RevisaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/intrometodos/test/RevisaoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/dominio/Anime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/service/AnimeComparators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/service/AnimeComparators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/LambdasTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/MethodReferenceTest04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/TreinarLógica.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/lambdas/test/TreinarLógica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Comprador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Comprador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Ferrari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/dominio/Ferrari.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/test/CarroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorfinal/test/CarroTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/AnimeDENOVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/AnimeDENOVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/dominio/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/test/AnimeTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/test/CarroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/modificadorstatic/test/CarroTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/domain/Manga.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/domain/Manga.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/repositorio/MangaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/repositorio/MangaRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/optinial/test/OptionalTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Computador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Computador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Taxavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Taxavel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Televisao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Televisao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Tomate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/dominio/Tomate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/repositorio/Repositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/repositorio/Repositorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/CalculadoraImposto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/CalculadoraImposto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeArquivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeArquivo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeDados.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeMemoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/servico/RepostorioBancoDeMemoria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/ProdutTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/RepositorioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/polimorfismo/test/RepositorioTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrecargametodos/Test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrecargametodos/Test/AnimeTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrecargametodos/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrecargametodos/dominio/Anime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrescrita/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrescrita/dominio/Anime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrescrita/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/sobrescrita/test/AnimeTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/domain/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/domain/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/domain/LightNovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/domain/LightNovel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/domain/Promotion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/domain/Promotion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StreamTest16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StremTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StremTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StremTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StremTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StremTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/stream/test/StremTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/domain/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/domain/Members.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/domain/Members.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/services/EmailDeliveryServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/services/EmailDeliveryServices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/DeadLockTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/DeadLockTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/EmailDeliveryTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/EmailDeliveryTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadAccountTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadAccountTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadExampleRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadExampleRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadExampleRunnable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadExampleRunnable2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/threads/test/ThreadsTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/wrappers/test/WrappersTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/intermediario/wrappers/test/WrappersTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/domain/Empresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/domain/Empresa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/domain/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/domain/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/domain/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/domain/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/servico/CriarArquivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/servico/CriarArquivos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/servico/PrintNosDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/servico/PrintNosDados.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/test/FuncionarioTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/relembrando/test/FuncionarioTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Bonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Bonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Habilidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Habilidade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Mundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Mundo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Personagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maratona/java/nojiraya/treinar/dominio/Personagem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -664,236 +47,238 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AlunoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimeDENOVOtest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnonymousClassTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnonymousClassTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AtomicIntegerTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula02.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Aula03.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Aula04.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Aula05.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Aula06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula09.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Aula10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula12.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Aula13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula14.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Aula15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula17.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula17_Intermediario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicFilesAttributesTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicFilesAttributesTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearchTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearchTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BlockingQueueTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BufferWriteTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BufferedReaderTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest02.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CalculadoraTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest4.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CalendarTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CallableTest01 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.CallableTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarroTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarroTest2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChronoUnitTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClasseGenericaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClasseGenericaTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClasseGenericaTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClienteTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComportamentoPorParametroTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComportamentoPorParametroTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComportamentoPorParametroTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateFormatTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateLoaderTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeadLockTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DirectoryStremTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DosFilesAttributes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DurationTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmailDeliveryTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualsTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscolaTes01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudanteTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudanteTest2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExeceptionTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecutorsTest01 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ExecutorsTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileMatcherTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileReaderTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileWriteTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FuncionarioTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FutureTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HerancaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HerancaTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstantTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IteratorTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdasTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdasTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeituraDoTecladoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeituraDoTecladoTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListSortingTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListaArrayConversaoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalDateTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalDateTimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalTimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocaleTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocaleTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoginInvalidoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ManasortingTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReferenceTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReferenceTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReferenceTest03.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.MethodReferenceTest04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NavigableMapTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NevigableSetTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NormalizeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberFormatTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberFormatTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptionalTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptionalTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OuterClassTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OuterClassTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternMatcherTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternMatcherTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternMatcherTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternMatcherTest04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternMatcherTest05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PeriodTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PersonagemTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PessoaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PosixFileAttributesTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProfessorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantLockTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantReadWriteLockTest01 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantReadWriteLockTest01 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantReadWriteLockTest01 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantReadWriteLockTest01 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantReadWriteLockTest01 (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReentrantReadWriteLockTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelativandoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ResourcesBundleTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevisaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTimeExceptionTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTimeExceptionTest04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTimeTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScheduledThreadPoolTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerializaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleDateFormatTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleFileVisitorTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleFileVisitorTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmartphoneListTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackOverFlowTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamTest16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StremTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StremTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilderTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemportalAdjustersTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemportalAdjustersTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TerçoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadAccountTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest01 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest01 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest01 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest01 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest01 (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest02 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest02 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest02 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadsTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreinarLógica.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryWithResourcesTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VisitorMatcherTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WildcardTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WrappersTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZipOututStreamTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZonaDataTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.java.maratona.java.nojiraya.intermediario.threads.test.EmailDeliveryTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratona.java.nojiraya.Aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratona.java.nojiraya.intermediario.concorrencia.test.EmailDeliveryTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratona.java.nojiraya.intermediario.construtores.Test.AnimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratona.java.nojiraya.intermediario.modificadorstatic.test.AnimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratona.java.nojiraya.introducao.Aula01.executor&quot;: &quot;Run&quot;,
-    &quot;OverrideImplement.combined&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mateus/Documentos/IdeaProjects/maratonajava/src/maratona/java/nojiraya/intermediario&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AlunoTest01.executor": "Run",
+    "Application.AnimeDENOVOtest01.executor": "Run",
+    "Application.AnimeTest01.executor": "Run",
+    "Application.AnonymousClassTest01.executor": "Run",
+    "Application.AnonymousClassTest02.executor": "Run",
+    "Application.AtomicIntegerTest01.executor": "Run",
+    "Application.Aula01.executor": "Run",
+    "Application.Aula02.executor": "Coverage",
+    "Application.Aula03.executor": "Coverage",
+    "Application.Aula04.executor": "Coverage",
+    "Application.Aula05.executor": "Coverage",
+    "Application.Aula06.executor": "Run",
+    "Application.Aula07.executor": "Run",
+    "Application.Aula08.executor": "Run",
+    "Application.Aula09.executor": "Debug",
+    "Application.Aula10.executor": "Run",
+    "Application.Aula11.executor": "Run",
+    "Application.Aula12.executor": "Coverage",
+    "Application.Aula13.executor": "Run",
+    "Application.Aula14.executor": "Coverage",
+    "Application.Aula15.executor": "Run",
+    "Application.Aula16.executor": "Run",
+    "Application.Aula17.executor": "Run",
+    "Application.Aula17_Intermediario.executor": "Run",
+    "Application.BasicFilesAttributesTest01.executor": "Run",
+    "Application.BasicFilesAttributesTest02.executor": "Run",
+    "Application.BinarySearchTest01.executor": "Run",
+    "Application.BinarySearchTest02.executor": "Run",
+    "Application.BlockingQueueTest01.executor": "Run",
+    "Application.BufferWriteTest01.executor": "Run",
+    "Application.BufferedReaderTest01.executor": "Run",
+    "Application.CalculadoraTest.executor": "Run",
+    "Application.CalculadoraTest02.executor": "Debug",
+    "Application.CalculadoraTest03.executor": "Run",
+    "Application.CalculadoraTest04.executor": "Run",
+    "Application.CalculadoraTest2.executor": "Run",
+    "Application.CalculadoraTest3.executor": "Run",
+    "Application.CalculadoraTest4.executor": "Debug",
+    "Application.CalendarTest01.executor": "Run",
+    "Application.CallableTest01 (1).executor": "Run",
+    "Application.CallableTest01.executor": "Run",
+    "Application.CarroTest.executor": "Coverage",
+    "Application.CarroTest01.executor": "Run",
+    "Application.CarroTest2.executor": "Run",
+    "Application.ChronoUnitTest01.executor": "Run",
+    "Application.ClasseGenericaTest01.executor": "Run",
+    "Application.ClasseGenericaTest02.executor": "Run",
+    "Application.ClasseGenericaTest03.executor": "Run",
+    "Application.ClienteTest01.executor": "Run",
+    "Application.CompletableFutureTest01.executor": "Run",
+    "Application.CompletableFutureTest02.executor": "Run",
+    "Application.ComportamentoPorParametroTest01.executor": "Run",
+    "Application.ComportamentoPorParametroTest02.executor": "Run",
+    "Application.ComportamentoPorParametroTest03.executor": "Run",
+    "Application.DateFormatTest01.executor": "Run",
+    "Application.DateLoaderTest01.executor": "Run",
+    "Application.DateTest01.executor": "Run",
+    "Application.DeadLockTest01.executor": "Run",
+    "Application.DirectoryStremTest01.executor": "Run",
+    "Application.DosFilesAttributes.executor": "Run",
+    "Application.DurationTest01.executor": "Run",
+    "Application.EmailDeliveryTest01.executor": "Run",
+    "Application.EqualsTest01.executor": "Run",
+    "Application.EscolaTes01.executor": "Run",
+    "Application.EstudanteTest.executor": "Coverage",
+    "Application.EstudanteTest01.executor": "Run",
+    "Application.EstudanteTest02.executor": "Run",
+    "Application.EstudanteTest2.executor": "Run",
+    "Application.ExeceptionTest01.executor": "Run",
+    "Application.ExecutorsTest01 (1).executor": "Debug",
+    "Application.ExecutorsTest01.executor": "Run",
+    "Application.FileMatcherTest01.executor": "Run",
+    "Application.FileReaderTest01.executor": "Run",
+    "Application.FileTest01.executor": "Run",
+    "Application.FileTest02.executor": "Run",
+    "Application.FileWriteTest01.executor": "Run",
+    "Application.FuncionarioTest01.executor": "Run",
+    "Application.FutureTest01.executor": "Run",
+    "Application.HerancaTest01.executor": "Run",
+    "Application.HerancaTest02.executor": "Run",
+    "Application.InstantTest01.executor": "Run",
+    "Application.IteratorTest01.executor": "Run",
+    "Application.JogadorTest01.executor": "Run",
+    "Application.JogadorTest02.executor": "Run",
+    "Application.JogadorTest03.executor": "Run",
+    "Application.LambdasTest01.executor": "Run",
+    "Application.LambdasTest02.executor": "Run",
+    "Application.LeituraDoTecladoTest01.executor": "Run",
+    "Application.LeituraDoTecladoTest02.executor": "Run",
+    "Application.ListSortingTest01.executor": "Run",
+    "Application.ListTest01.executor": "Run",
+    "Application.ListaArrayConversaoTest01.executor": "Run",
+    "Application.LocalDateTest01.executor": "Run",
+    "Application.LocalDateTimeTest01.executor": "Run",
+    "Application.LocalTimeTest01.executor": "Run",
+    "Application.LocaleTest01.executor": "Run",
+    "Application.LocaleTest02.executor": "Run",
+    "Application.LoginInvalidoTest01.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ManasortingTest01.executor": "Run",
+    "Application.MapTest01.executor": "Run",
+    "Application.MapTest02.executor": "Run",
+    "Application.MapTest03.executor": "Run",
+    "Application.MethodReferenceTest01.executor": "Run",
+    "Application.MethodReferenceTest02.executor": "Run",
+    "Application.MethodReferenceTest03.executor": "Coverage",
+    "Application.MethodReferenceTest04.executor": "Run",
+    "Application.NavigableMapTest01.executor": "Run",
+    "Application.NevigableSetTest01.executor": "Run",
+    "Application.NormalizeTest01.executor": "Run",
+    "Application.NumberFormatTest01.executor": "Run",
+    "Application.NumberFormatTest02.executor": "Run",
+    "Application.OptionalTest01.executor": "Run",
+    "Application.OptionalTest02.executor": "Run",
+    "Application.OuterClassTest01.executor": "Run",
+    "Application.OuterClassTest02.executor": "Run",
+    "Application.PathTest01.executor": "Run",
+    "Application.PathTest02.executor": "Run",
+    "Application.PathTest03.executor": "Run",
+    "Application.PatternMatcherTest01.executor": "Run",
+    "Application.PatternMatcherTest02.executor": "Run",
+    "Application.PatternMatcherTest03.executor": "Run",
+    "Application.PatternMatcherTest04.executor": "Run",
+    "Application.PatternMatcherTest05.executor": "Run",
+    "Application.PeriodTest01.executor": "Run",
+    "Application.PersonagemTest01.executor": "Run",
+    "Application.PessoaTest01.executor": "Run",
+    "Application.PosixFileAttributesTest01.executor": "Run",
+    "Application.ProdutTest01.executor": "Run",
+    "Application.ProdutTest02.executor": "Run",
+    "Application.ProdutTest03.executor": "Run",
+    "Application.ProfessorTest.executor": "Run",
+    "Application.QueueTest02.executor": "Run",
+    "Application.ReentrantLockTest01.executor": "Run",
+    "Application.ReentrantReadWriteLockTest01 (1).executor": "Run",
+    "Application.ReentrantReadWriteLockTest01 (2).executor": "Run",
+    "Application.ReentrantReadWriteLockTest01 (3).executor": "Run",
+    "Application.ReentrantReadWriteLockTest01 (4).executor": "Run",
+    "Application.ReentrantReadWriteLockTest01 (5).executor": "Run",
+    "Application.ReentrantReadWriteLockTest01.executor": "Run",
+    "Application.RelativandoTest01.executor": "Run",
+    "Application.ResourcesBundleTest01.executor": "Run",
+    "Application.RevisaoTest.executor": "Run",
+    "Application.RunTimeExceptionTest03.executor": "Run",
+    "Application.RunTimeExceptionTest04.executor": "Run",
+    "Application.RunTimeTest02.executor": "Run",
+    "Application.ScannerTest01.executor": "Run",
+    "Application.ScannerTest02.executor": "Run",
+    "Application.ScheduledThreadPoolTest01.executor": "Run",
+    "Application.SerializaTest01.executor": "Run",
+    "Application.SetTest01.executor": "Run",
+    "Application.SimpleDateFormatTest01.executor": "Run",
+    "Application.SimpleFileVisitorTest01.executor": "Run",
+    "Application.SimpleFileVisitorTest02.executor": "Run",
+    "Application.SmartphoneListTest01.executor": "Run",
+    "Application.StackOverFlowTest01.executor": "Run",
+    "Application.StreamTest04.executor": "Run",
+    "Application.StreamTest05.executor": "Run",
+    "Application.StreamTest06.executor": "Run",
+    "Application.StreamTest07.executor": "Run",
+    "Application.StreamTest08.executor": "Run",
+    "Application.StreamTest09.executor": "Run",
+    "Application.StreamTest10.executor": "Run",
+    "Application.StreamTest12.executor": "Run",
+    "Application.StreamTest13.executor": "Run",
+    "Application.StreamTest14.executor": "Run",
+    "Application.StreamTest15.executor": "Run",
+    "Application.StreamTest16.executor": "Run",
+    "Application.StremTest01.executor": "Run",
+    "Application.StremTest03.executor": "Run",
+    "Application.StringBuilderTest01.executor": "Run",
+    "Application.StringTest01.executor": "Run",
+    "Application.StringTest02.executor": "Run",
+    "Application.StringTest03.executor": "Run",
+    "Application.TemportalAdjustersTest01.executor": "Run",
+    "Application.TemportalAdjustersTest02.executor": "Run",
+    "Application.TerçoTest.executor": "Run",
+    "Application.ThreadAccountTest01.executor": "Run",
+    "Application.ThreadsTest01 (1).executor": "Run",
+    "Application.ThreadsTest01 (2).executor": "Run",
+    "Application.ThreadsTest01 (3).executor": "Run",
+    "Application.ThreadsTest01 (4).executor": "Run",
+    "Application.ThreadsTest01 (5).executor": "Run",
+    "Application.ThreadsTest01.executor": "Run",
+    "Application.ThreadsTest02 (1).executor": "Run",
+    "Application.ThreadsTest02 (2).executor": "Run",
+    "Application.ThreadsTest02 (3).executor": "Run",
+    "Application.ThreadsTest02.executor": "Run",
+    "Application.TreinarLógica.executor": "Run",
+    "Application.TryWithResourcesTest01.executor": "Run",
+    "Application.VisitorMatcherTest01.executor": "Run",
+    "Application.WildcardTest02.executor": "Run",
+    "Application.WrappersTest01.executor": "Run",
+    "Application.ZipOututStreamTest01.executor": "Run",
+    "Application.ZonaDataTest01.executor": "Run",
+    "Application.main.java.maratona.java.nojiraya.intermediario.threads.test.EmailDeliveryTest01.executor": "Run",
+    "Application.maratona.java.nojiraya.Aula01.executor": "Run",
+    "Application.maratona.java.nojiraya.intermediario.concorrencia.test.EmailDeliveryTest01.executor": "Run",
+    "Application.maratona.java.nojiraya.intermediario.construtores.Test.AnimeTest01.executor": "Run",
+    "Application.maratona.java.nojiraya.intermediario.modificadorstatic.test.AnimeTest01.executor": "Run",
+    "Application.maratona.java.nojiraya.introducao.Aula01.executor": "Run",
+    "OverrideImplement.combined": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/mateus/Documentos/IdeaProjects/maratonajava/src/maratona/java/nojiraya/intermediario",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario" />
@@ -923,15 +308,26 @@
       <recent name="maratona.java.nojiraya.intermediario.comportamento.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmailDeliveryTest01">
-    <configuration name="DeadLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-21-openjdk-amd64" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="maratona.java.nojiraya.intermediario.threads.test.DeadLockTest01" />
+  <component name="RunManager" selected="Application.CompletableFutureTest02">
+    <configuration name="CompletableFutureTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratona.java.nojiraya.intermediario.concorrencia.test.CompletableFutureTest01" />
       <module name="maratonajava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratona.java.nojiraya.intermediario.threads.test.*" />
+          <option name="PATTERN" value="maratona.java.nojiraya.intermediario.concorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratona.java.nojiraya.intermediario.concorrencia.test.CompletableFutureTest02" />
+      <module name="maratonajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratona.java.nojiraya.intermediario.concorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -952,25 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAccountTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratona.java.nojiraya.intermediario.threads.test.ThreadAccountTest01" />
+    <configuration name="FutureTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratona.java.nojiraya.intermediario.concorrencia.test.FutureTest01" />
       <module name="maratonajava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratona.java.nojiraya.intermediario.threads.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadsTest02 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratona.java.nojiraya.intermediario.threads.test.ThreadsTest02" />
-      <module name="maratonajava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratona.java.nojiraya.intermediario.threads.test.*" />
+          <option name="PATTERN" value="maratona.java.nojiraya.intermediario.concorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1004,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompletableFutureTest02" />
+        <item itemvalue="Application.CompletableFutureTest01" />
+        <item itemvalue="Application.FutureTest01" />
         <item itemvalue="Application.EmailDeliveryTest01" />
         <item itemvalue="Application.main.java.maratona.java.nojiraya.intermediario.threads.test.EmailDeliveryTest01" />
-        <item itemvalue="Application.DeadLockTest01" />
-        <item itemvalue="Application.ThreadAccountTest01" />
-        <item itemvalue="Application.ThreadsTest02 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -1108,6 +491,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/maratona/java/nojiraya/intermediario/concorrencia/test/CompletableFutureTest01.java</url>
+          <line>31</line>
+          <properties class="maratona.java.nojiraya.intermediario.concorrencia.test.CompletableFutureTest01" method="searchPriceSyncFuture">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/maratona/java/nojiraya/treinar/dominio/Personagem.java</url>

@@ -3,7 +3,7 @@ package maratona.java.nojiraya.intermediario.concorrencia.test;
 import java.util.concurrent.*;
 
 public class FutureTest01 {
-    public static void main(String[] args) throws ExecutionException, InterruptedException, TimeoutException {
+    public static void main(String[] args){
         ExecutorService singleThread = Executors.newSingleThreadExecutor();
         Future<Double> dollar = singleThread.submit(new Callable<Double>() {
             @Override
@@ -14,9 +14,15 @@ public class FutureTest01 {
         });
 
         System.out.println(doingSomething());
-        Double v = dollar.get(3, TimeUnit.SECONDS);
+        Double v = null;
+        try {
+            v = dollar.get(3, TimeUnit.SECONDS);
+        } catch (InterruptedException | ExecutionException | TimeoutException e) {
+            throw new RuntimeException(e);
+        } finally{
+            singleThread.shutdown();
+        }
         System.out.println("Dollar" + v);
-        singleThread.shutdown();
     }
 
     public static long doingSomething(){
