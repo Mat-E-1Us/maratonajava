@@ -18,7 +18,7 @@ public class CompletableFutureTest02 {
 
         List<CompletableFuture<Double>> collect = stores.stream()
                 .map(storeService::getPriceAsyncCompletableFuture)
-                .collect(Collectors.toList());
+                .toList();
 
         List<Double> collect1 = collect.stream()
                 .map(CompletableFuture::join)
